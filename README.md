@@ -66,17 +66,17 @@ If you see anything that could be added or changed don't hesitate to sumbit a re
 
 ## What will/should work after testing
 - mDP/HDMI/USB-C video out (Not Tested)
-- Dual Boot with Windows 
-- Dual Boot with Linux
-- Dual Boot with chromeOS
-- FileVault
-- SD card
-- Volume Buttons
-- Power Button
-- Sleep/Hibernation
-- Recovery
-- Battery Status
-- Deep Sleep (macOS Hibernation 'Hibernatemode=25')
+- Dual Boot with Windows (Not Tested)
+- Dual Boot with Linux (Not Tested)
+- Dual Boot with chromeOS (Not Tested)
+- FileVault (Not Tested)
+- SD card (Not Tested)
+- Volume Buttons (Not Tested)
+- Power Button (Not Tested)
+- Sleep/Hibernation (Not Tested)
+- Recovery (Not Tested)
+- Battery Status (Not Tested)
+- Deep Sleep (macOS Hibernation 'Hibernatemode=25') (Not Tested)
 
 
 
