@@ -19,26 +19,26 @@ If you see anything that could be added or changed don't hesitate to sumbit a re
 
 | Model: | Pro 7 |
 |---|----------|
-|CPU| 6th Gen: i3, i5, i7 |
-|GPU| Intel HD 520 / Iris |
+|CPU| 10th Gen: i3, i5, i7 |
+|GPU| Intel HD 520 / Intel Iris Pro |
 |RAM| 4/8/16 GB |
 |SSD| 128GB/256GB/512GB/1TBs NVME |
-|WiFi| Unsupported | 
+|WiFi| Intel Wifi |
+|Bluetooth| Intel Bluetooth |
 |Batt| XX,000 mAH |
-|USB| 1x USB 3.0 |
+|USB| 1x USB-C |
 
 
 
 
 ## Instruction Guides
 
-### [Chapter 1) Quick Start Install](https://github.com/balopez83/Surface-Pro-4-and-Surface-Book-Hackintosh/blob/main/1-QuickStart.md)
-### [Chapter 2) BootCamp Install](https://github.com/balopez83/Surface-Pro-4-and-Surface-Book-Hackintosh/blob/main/2-BootCamp.md)
-### [Chapter 3) Quirks & Fixes - Includes how to set up the Touch Screen](https://github.com/balopez83/Surface-Pro-4-and-Surface-Book-Hackintosh/blob/main/3-quirks%26fixes.md)
-### [Chapter 4) Additional Drivers](https://github.com/balopez83/Surface-Pro-4-and-Surface-Book-Hackintosh/blob/main/4-drivers.md)
-### [Chapter 5) Booting Other OS's with OpenCore](https://github.com/balopez83/Surface-Pro-4-and-Surface-Book-Hackintosh/blob/main/5-OtherOS%26OC.md)
-### [Chapter 6) Windows 11 Upgrade and/or Clean Install]
-### [Chapter 7) Enable Secure Boot with OpenCore/macOS](https://github.com/balopez83/Surface-Pro-4-and-Surface-Book-Hackintosh/blob/main/7-SecureBootOn.md)
+### [Chapter 1) Quick Start Install]()
+### [Chapter 2) BootCamp Install]()
+### [Chapter 3) Quirks & Fixes - Includes how to set up the Touch Screen]()
+### [Chapter 4) Additional Drivers]()
+### [Chapter 5) Booting Other OS's with OpenCore]()
+### [Chapter 6) Enable Secure Boot with OpenCore/macOS]()
 
 
 ## What works 
