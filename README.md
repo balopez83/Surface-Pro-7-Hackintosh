@@ -20,7 +20,7 @@ If you see anything that could be added or changed don't hesitate to sumbit a re
 | Model: | Pro 7 |
 |---|----------|
 |CPU| 10th Gen: i3, i5, i7 |
-|GPU| Intel HD 520 / Intel Iris Pro |
+|GPU| Intel UHD / Intel Iris Pro |
 |RAM| 4/8/16 GB |
 |SSD| 128GB/256GB/512GB/1TBs NVME |
 |WiFi| Intel Wifi |
