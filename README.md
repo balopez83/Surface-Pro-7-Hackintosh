@@ -60,10 +60,11 @@ If you see anything that could be added or changed don't hesitate to sumbit a re
 
 
 ## What doesn't work
-
 - Accelerometer (unsupported device)
 - Cameras (unsupported device)
 - Hardware based DRM (Apple Issue)
+
+## What will/should work after testing
 - mDP/HDMI/USB-C video out (Not Tested)
 - Dual Boot with Windows 
 - Dual Boot with Linux
