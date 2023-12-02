@@ -2,7 +2,7 @@
 ## (Requires OpenCore: macOS as Primary OS, Windows as secondary)
 
 PRE-WORK: 
-- Create a Windows 10 iso file using the "Windows Media Creation Tool" within Windows OR google search Windows 10 iso file from Safari. Set aside, we will need this later.
+- Create a Windows 10/11 iso file using the "Windows Media Creation Tool" within Windows OR google search Windows 10/11 iso file from Safari. Set aside, we will need this later.
 - Format your entire SSD as GPT partition scheme with only an EFI partition and what will be your macOS partition. I recommend using a linux live USB and gparted for formating and partitioning your SSD. Set the EFI partition size as 200mb (recommend 300-500mb), the rest of the drive should be partitioned for macOS and you should use either NTFS or exFAT partioning.
 - You MUST USE OPENCORE for your EFI. NO EXCEPTIONS, this will not work properly if you use Clover.
 
