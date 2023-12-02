@@ -1,8 +1,7 @@
 # Surface-Pro-7-Hackintosh
 This project aims to provide continued support running macOS on the Surface Pro 7
-# This repo is still being built currently. You may see some items that may not directly reflect the SP7 as I am copying over relevant data from my other Surface Pro pages and updating for the SP7. Once complete I will upload the working SP7 EFI as the first release. 
 
-EFI supports macOS version 10.15 through 14.
+EFI supports macOS version 14 ONLY at this time.
 
 Star or watch this github repository to be notified of updates coming soon. 
 
@@ -61,14 +60,15 @@ If you see anything that could be added or changed don't hesitate to sumbit a re
 - Power Management
 - UEFI Secure Boot ON
 - Surface Keyboard Hot Plug
-- Surface Dock
-
+- Intel WiFi (Sonoma only at this time)
+- Intel Bluetooth (Sonoma only at this time)
 
 
 ## What doesn't work
 - Accelerometer (unsupported device)
 - Cameras (unsupported device)
 - Hardware based DRM (Apple Issue)
+
 
 ## What will/should work after testing
 - mDP/HDMI/USB-C video out (Not Tested)
@@ -83,6 +83,7 @@ If you see anything that could be added or changed don't hesitate to sumbit a re
 - Recovery (Not Tested)
 - Battery Status (Not Tested)
 - Deep Sleep (macOS Hibernation 'Hibernatemode=25') (Not Tested)
+- Surface Dock (Not Tested)
 
 
 
