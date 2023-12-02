@@ -28,7 +28,14 @@ If you see anything that could be added or changed don't hesitate to sumbit a re
 |Batt| XX,000 mAH |
 |USB| 1x USB-C |
 
+## Supported Software:
 
+- [] macOS 10.14 Mojave (End of Life)
+- [] macOS 10.15 Catalina (End of Life)
+- [] macOS 11 Big Sur (End of Life)
+- [] macOS 12 Monterey
+- [] macOS 13 Ventura
+- [X] macOS 14 Sonoma
 
 
 ## Instruction Guides
