@@ -33,12 +33,11 @@ If you see anything that could be added or changed don't hesitate to sumbit a re
 
 ## Instruction Guides
 
-### [Chapter 1) Quick Start Install]()
-### [Chapter 2) BootCamp Install]()
-### [Chapter 3) Quirks & Fixes - Includes how to set up the Touch Screen]()
-### [Chapter 4) Additional Drivers]()
-### [Chapter 5) Booting Other OS's with OpenCore]()
-### [Chapter 6) Enable Secure Boot with OpenCore/macOS]()
+### [Chapter 1) Quick Start Install](https://github.com/balopez83/Surface-Pro-7-Hackintosh/blob/main/1-QuickStart.md)
+### [Chapter 2) BootCamp Install](https://github.com/balopez83/Surface-Pro-7-Hackintosh/blob/main/2-BootCamp.md)
+### [Chapter 3) Quirks & Fixes - Includes how to set up the Touch Screen](https://github.com/balopez83/Surface-Pro-7-Hackintosh/blob/main/3-quirks%26fixes.md)
+### [Chapter 4) Booting Other OS's with OpenCore](https://github.com/balopez83/Surface-Pro-7-Hackintosh/blob/main/5-OtherOS%26OC.md)
+### [Chapter 5) Enable Secure Boot with OpenCore/macOS](https://github.com/balopez83/Surface-Pro-7-Hackintosh/blob/main/7-SecureBootOn.md)
 
 
 ## What works 
