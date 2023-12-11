@@ -1,7 +1,6 @@
 # Surface-Pro-7-Hackintosh
 This project aims to provide continued support running macOS on the Surface Pro 7
 
-EFI supports macOS version 14 ONLY at this time.
 
 Star or watch this github repository to be notified of updates coming soon. 
 
@@ -29,11 +28,10 @@ If you see anything that could be added or changed don't hesitate to sumbit a re
 
 ## Supported Software:
 
-- [ ] macOS 10.14 Mojave (End of Life)
-- [ ] macOS 10.15 Catalina (End of Life)
-- [ ] macOS 11 Big Sur (End of Life)
-- [ ] macOS 12 Monterey
-- [ ] macOS 13 Ventura
+- [X] macOS 10.15 Catalina (End of Life)
+- [X] macOS 11 Big Sur (End of Life)
+- [X] macOS 12 Monterey
+- [X] macOS 13 Ventura
 - [X] macOS 14 Sonoma
 
 
@@ -47,7 +45,7 @@ If you see anything that could be added or changed don't hesitate to sumbit a re
 
 
 ## What works 
-
+- Surface Pro i5 & i7 Supported (i3 unknown)
 - macOS Installer
 - macOS Updates
 - Fan
@@ -60,31 +58,28 @@ If you see anything that could be added or changed don't hesitate to sumbit a re
 - Power Management
 - UEFI Secure Boot ON
 - Surface Keyboard Hot Plug
-- Intel WiFi (Sonoma only at this time)
-- Intel Bluetooth (Sonoma only at this time)
+- Intel Wifi (10.15-14)
+- Intel Bluetooth
+- Battery Status
+- Dual Boot with Windows
+- Dual Boot with Linux
+- Dual Boot with ChromeOS
+- SD card
+- Volume Buttons
+- Power Button
+- Recovery
 
+## What will/should work eventually
+- USB-C video out (Needs more work; will freeze computer)
+- FileVault (Not Tested)
+- Surface Dock (Not Tested)
+- Deep Sleep (macOS Hibernation 'Hibernatemode=25') (Needs additional work. You should set computer to never sleep and turn off the computer when not in use.)
+- Sleep/Hibernation (Needs additional work. See "Deep Sleep" Above)
 
 ## What doesn't work
 - Accelerometer (unsupported device)
 - Cameras (unsupported device)
 - Hardware based DRM (Apple Issue)
-
-
-## What will/should work after testing
-- mDP/HDMI/USB-C video out (Not Tested)
-- Dual Boot with Windows (Not Tested)
-- Dual Boot with Linux (Not Tested)
-- Dual Boot with chromeOS (Not Tested)
-- FileVault (Not Tested)
-- SD card (Not Tested)
-- Volume Buttons (Not Tested)
-- Power Button (Not Tested)
-- Sleep/Hibernation (Not Tested)
-- Recovery (Not Tested)
-- Battery Status (Not Tested)
-- Deep Sleep (macOS Hibernation 'Hibernatemode=25') (Not Tested)
-- Surface Dock (Not Tested)
-
 
 
 ## Credits
