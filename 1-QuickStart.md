@@ -7,6 +7,6 @@
 5. During first boot, after installing the OS, mount your EFI partition and copy over the OpenCore folder along with your BOOT folder found in the EFI folder on your install usb; you must copy/overwrite the same folders on the same partition located on your SSD.
 6. Reboot and change BIOS bootloader order to have OpenCore bootloader as first entry. This should happen automatically after wiping the drive.
 7. If your Bios/UEFI does not show OpenCore as an available option you will need to add it via the UEFI Shell. Open "Quirks and Fixes" and follow instructions for manually adding OpenCore to your bootloader list. Once added move to step 8.
-8. Open your config.plist and generate a new serial number [Tutorial here](https://hackintosher.com/forums/thread/generate-your-own-hackintosh-serial-number-board-serial-number-uuid-mlb-rom-in-clover.306/)
+8. Open your config.plist and generate a new serial number [Tutorial here](https://www.tonymacx86.com/threads/an-idiots-guide-to-imessage.196827/)
 9. Install any additional software and drivers if needed for your specific needs
 10. Reboot and enjoy!
