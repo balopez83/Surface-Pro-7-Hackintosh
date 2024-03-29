@@ -18,7 +18,7 @@ If you see anything that could be added or changed don't hesitate to sumbit a re
 | Model: | Pro 7 |
 |---|----------|
 |CPU| 10th Gen: i3, i5, i7 |
-|GPU| Intel UHD / Intel Iris Pro |
+|GPU| Intel UHD (unsupported)/ Intel Iris Pro |
 |RAM| 4/8/16 GB |
 |SSD| 128GB/256GB/512GB/1TBs NVME |
 |WiFi| Intel Wifi |
@@ -45,7 +45,7 @@ If you see anything that could be added or changed don't hesitate to sumbit a re
 
 
 ## What works 
-- Surface Pro i5 & i7 Supported (i3 unknown)
+- Surface Pro i5 & i7 Supported (i3 Unsupported Graphics)
 - macOS Installer
 - macOS Updates
 - Fan
@@ -68,10 +68,11 @@ If you see anything that could be added or changed don't hesitate to sumbit a re
 - Volume Buttons
 - Power Button
 - Recovery
+- Surface Pen
+- USB-C video out
+- FileVault
 
 ## What will/should work eventually
-- USB-C video out (Needs more work; will freeze computer)
-- FileVault (Not Tested)
 - Surface Dock (Not Tested)
 - Deep Sleep (macOS Hibernation 'Hibernatemode=25') (Needs additional work. You should set computer to never sleep and turn off the computer when not in use.)
 - Sleep/Hibernation (Needs additional work. See "Deep Sleep" Above)
@@ -83,4 +84,4 @@ If you see anything that could be added or changed don't hesitate to sumbit a re
 
 
 ## Credits
-Special thanks to [@Xiashangning](https://github.com/Xiashangning) for the excellent work done on his BigSurface kext.
+Special thanks to [@Xiashangning](https://github.com/Xiashangning) for the excellent work done on his BigSurface kext. @badstorm & @Xiashangning for the initial work they did in getting initial support for macOS on the Surface Pro 7 from which my work builds upon. 
