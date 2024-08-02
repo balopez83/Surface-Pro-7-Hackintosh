@@ -51,14 +51,14 @@ If you see anything that could be added or changed don't hesitate to sumbit a re
 - Fan
 - USB
 - Trackpad
-- TouchScreen (Requires IPTSDaemon, "Chapter 3")
+- TouchScreen (Requires IPTSDaemon for multitouch, "Chapter 3")
 - Keyboard
 - Audio
 - Brightness Keys
 - Power Management
 - UEFI Secure Boot ON
 - Surface Keyboard Hot Plug
-- Intel Wifi (10.15-14)
+- Intel Wifi
 - Intel Bluetooth
 - Battery Status
 - Dual Boot with Windows
