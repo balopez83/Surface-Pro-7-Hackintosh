@@ -17,7 +17,7 @@ If you see anything that could be added or changed don't hesitate to sumbit a re
 
 | Model: | Pro 7 |
 |---|----------|
-|CPU| 10th Gen: i3, i5, i7 |
+|CPU| 10th Gen: i3 (unsupported), i5, i7 |
 |GPU| Intel UHD (unsupported)/ Intel Iris Pro |
 |RAM| 4/8/16 GB |
 |SSD| 128GB/256GB/512GB/1TBs NVME |
@@ -71,11 +71,10 @@ If you see anything that could be added or changed don't hesitate to sumbit a re
 - Surface Pen
 - USB-C video out
 - FileVault
+- Sleep/Hibernation (Hibernatemode 25 only)
 
 ## What will/should work eventually
 - Surface Dock (Not Tested)
-- Deep Sleep (macOS Hibernation 'Hibernatemode=25') (Needs additional work. You should set computer to never sleep and turn off the computer when not in use.)
-- Sleep/Hibernation (Needs additional work. See "Deep Sleep" Above)
 
 ## What doesn't work
 - Accelerometer (unsupported device)
