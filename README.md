@@ -17,7 +17,7 @@ If you see anything that could be added or changed don't hesitate to sumbit a re
 
 | Model: | Pro 7 |
 |---|----------|
-|CPU| 10th Gen: i3 (unsupported), i5, i7 |
+|CPU| 10th Gen: (i3 unsupported), i5, i7 |
 |GPU| Intel UHD (unsupported)/ Intel Iris Pro |
 |RAM| 4/8/16 GB |
 |SSD| 128GB/256GB/512GB/1TBs NVME |
