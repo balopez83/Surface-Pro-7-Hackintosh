@@ -72,9 +72,10 @@ If you see anything that could be added or changed don't hesitate to sumbit a re
 - USB-C video out
 - FileVault
 - Sleep/Hibernation (Hibernatemode 25 only)
+- Surface Dock
 
 ## What will/should work eventually
-- Surface Dock (Not Tested)
+- Everything that can work, is :) 
 
 ## What doesn't work
 - Accelerometer (unsupported device)
