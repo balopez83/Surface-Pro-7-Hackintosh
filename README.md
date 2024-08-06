@@ -8,7 +8,7 @@ If you see anything that could be added or changed don't hesitate to sumbit a re
 
 
 ## *** NOTICE ***
-- ### Touch is Technically supported in the posted EFI files however it requires [@Xiashangning's IPTSDaemon](https://github.com/Xiashangning/IPTSDaemon) in order to work. Please see the "Chapter 3" link below for instruction.
+- ### Touch works out of the box however if you would like multitouch support you will need to install [@Xiashangning's IPTSDaemon](https://github.com/Xiashangning/IPTSDaemon). Please see the "Chapter 3" link below for instruction.
 - ### If you have issues with random reboots at the user creation screen after install of macOS Big Sur and newer it is because you have chosen an incorrect config.plist file. Please ensure that you are using the correct one for your system.
 
  
@@ -33,6 +33,7 @@ If you see anything that could be added or changed don't hesitate to sumbit a re
 - [X] macOS 12 Monterey
 - [X] macOS 13 Ventura
 - [X] macOS 14 Sonoma
+- [ ] macOS 15 Sequoia (Beta)
 
 
 ## Instruction Guides
