@@ -7,7 +7,9 @@ Star or watch this github repository to be notified of updates coming soon.
 If you see anything that could be added or changed don't hesitate to sumbit a request.
 
 
-## *** NOTICE ***
+# *** NOTICE ***
+## It appears that the Hackintosh journey is coming to a close. Support for the key kexts that allow the Surface Pro 7 work, has ended resulting in the need for more and more workarounds to get things functional. Given this current state, I am moving this repo to an LTS support model until either Apple stops releasing Intel compatible OS's or no more support of the key kexts required to boot new versions are supported. If BigSurface.kext and the Intel Wifi drivers/kexts get updated, I will of course continue to update this repo. I will periodically update kexts and OpenCore as appropriate however there is no need to update with every release as no new features or fixes impact the Surface Pro 7. You should expect that any current issues will not be solved. 
+
 - ### Touch works out of the box however if you would like multitouch support you will need to install [@Xiashangning's IPTSDaemon](https://github.com/Xiashangning/IPTSDaemon). Please see the "Chapter 3" link below for instruction.
 - ### If you have issues with random reboots at the user creation screen after install of macOS Big Sur and newer it is because you have chosen an incorrect config.plist file. Please ensure that you are using the correct one for your system.
 
@@ -33,7 +35,7 @@ If you see anything that could be added or changed don't hesitate to sumbit a re
 - [X] macOS 12 Monterey
 - [X] macOS 13 Ventura
 - [X] macOS 14 Sonoma
-- [ ] macOS 15 Sequoia (Beta)
+- [X] macOS 15 Sequoia (Missing Features)
 
 
 ## Instruction Guides
@@ -76,7 +78,7 @@ If you see anything that could be added or changed don't hesitate to sumbit a re
 - Surface Dock
 
 ## What will/should work eventually
-- Everything that can work, is :) 
+- Everything that can work, is already working :) 
 
 ## What doesn't work
 - Accelerometer (unsupported device)
