@@ -8,7 +8,7 @@ If you see anything that could be added or changed don't hesitate to sumbit a re
 
 
 # *** NOTICE ***
-## It appears that the Hackintosh journey is coming to a close. Given the EOL of hackintoshing is quickly nearing, I am moving this repo to an LTS support model and will only update the repo if fixes are available until Apple stops releasing Intel compatible OS's. I will periodically update kexts and OpenCore as appropriate however there is no need to update with every OC or kext release if no new features or fixes impact the Surface Pro. You should expect that any remaining current issues will not be solved.
+## The Hackintosh journey is coming to a close with the announcement that macOS 26 will be the last version to support Intel. Given the EOL of hackintoshing is quickly nearing, I am moving this repo to an LTS support model and will only update the repo if fixes are available until Apple stops releasing Intel compatible OS's. I will periodically update kexts and OpenCore as appropriate however there is no need to update with every OC or kext release if no new features or fixes impact the Surface Pro. You should expect that any remaining current issues will not be solved.
 
 - ### Touch works out of the box however if you would like multitouch support you will need to install [@Xiashangning's IPTSDaemon](https://github.com/Xiashangning/IPTSDaemon). Please see the "Chapter 3" link below for instruction.
 - ### If you have issues with random reboots at the user creation screen after install of macOS Big Sur and newer it is because you have chosen an incorrect config.plist file. Please ensure that you are using the correct one for your system.
@@ -36,6 +36,7 @@ If you see anything that could be added or changed don't hesitate to sumbit a re
 - [X] macOS 13 Ventura
 - [X] macOS 14 Sonoma
 - [X] macOS 15 Sequoia (Missing Features)
+- [X] macOS 26 Tahoe (Missing Features, Last Intel Supporting Release, End Of Support)
 
 
 ## Instruction Guides
