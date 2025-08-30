@@ -1,4 +1,4 @@
-# Surface-Pro-7-Hackintosh
+# Surface-Pro-7-Hackintosh (Does not support Surface Pro 7+ Sorry)
 This project aims to provide continued support running macOS on the Surface Pro 7
 
 
